@@ -46,7 +46,7 @@
             TreeSelect
 
         },
-
+/*测试代码推送*/
         setup(props, context) {
              let get=getCurrentInstance().appContext.config.globalProperties.$get
             get('http://is.snssdk.com/api/news/feed/v51/').then(res=>{
