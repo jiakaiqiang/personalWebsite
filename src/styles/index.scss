@@ -1,0 +1,17 @@
+
+@import "./variables.scss";
+/*公用的样式*/
+html{
+  font-size:16px
+}
+body{
+  background:$mainColor;
+  font-size: $mainFont;
+  margin:0px;
+  padding:0px;
+  border:0px;
+}
+/*网站头部的样式*/
+.app-header{
+
+}

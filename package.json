@@ -29,7 +29,8 @@
     "eslint-plugin-vue": "^7.0.0",
     "node-sass": "^6.0.1",
     "prettier": "^2.2.1",
-    "sass-loader": "^10.2.0"
+    "sass-loader": "^10.2.0",
+    "vue-fullpage.js": "^0.1.7"
   },
   "eslintConfig": {
     "root": true,
